@@ -38,7 +38,9 @@ Testing
  ↓
 Final Results
 
-As discussed, here is the final work division for our Vehicle Detection & Traffic Analysis project. Please focus on your assigned module and complete it properly.
+As discussed, here is the final work division for our Vehicle Detection & Traffic Analysis project.
+Please focus on your assigned module and complete it properly.
+
 🔴 PINKU — AI / YOLO
 - Set up the pre-trained YOLO model
 - Vehicle detection
@@ -46,6 +48,7 @@ As discussed, here is the final work division for our Vehicle Detection & Traffi
 - Bounding boxes
 - Confidence scores
 - Create the core detection function that other modules can use
+
 🔴 RAJ — Core Integration
 - Integrate the YOLO detection module with the application
 - Video detection
@@ -53,6 +56,7 @@ As discussed, here is the final work division for our Vehicle Detection & Traffi
 - Vehicle counting
 - FPS/performance display
 - Connect different modules into one working system
+
 🔴 SANSKRITI — UI & Visualization
 - Design and develop the project interface
 - Image/video/webcam selection
@@ -60,6 +64,7 @@ As discussed, here is the final work division for our Vehicle Detection & Traffi
 - Vehicle statistics dashboard
 - Bounding-box visualization
 - Make the application clean and user-friendly
+
 🟠 PRITAM — Image Processing & I/O
 - Image preprocessing
 - Resizing
@@ -68,6 +73,7 @@ As discussed, here is the final work division for our Vehicle Detection & Traffi
 - Frame extraction
 - Input validation
 - Saving processed images/videos and outputs
+
 🟡 SANTANU — Testing & Performance
 - Test different images and videos
 - Test different traffic/lighting conditions
@@ -75,6 +81,7 @@ As discussed, here is the final work division for our Vehicle Detection & Traffi
 - Measure detection performance/FPS
 - Accuracy/result analysis
 - Identify bugs and coordinate with the relevant member for fixes
+
 🟢 DEBANSHU — Results & Final Demo
 - Collect final outputs and screenshots
 - Prepare result tables/statistics
@@ -82,6 +89,7 @@ As discussed, here is the final work division for our Vehicle Detection & Traffi
 - Prepare the final demo flow
 - Presentation support
 - Document limitations and future scope
+
 🔗 How everything connects
 PINKU: AI Detection
 ↓
