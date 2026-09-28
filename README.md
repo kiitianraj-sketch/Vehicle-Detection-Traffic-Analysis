@@ -114,16 +114,21 @@ Please focus on your assigned module and complete it properly.
 PINKU: AI Detection
 
 ↓
+
 PRITAM: Image Processing / Input-Output
 
 ↓
+
 RAJ: Integration + Video/Webcam + Counting
 
 ↓
+
 SANSKRITI: UI & Visualization
 
 ↓
+
 SANTANU: Testing & Performance
 
 ↓
+
 DEBANSHU: Final Results & Demo
