@@ -55,7 +55,7 @@ Final Results
 
 
 
-Individual WorkFlow :-
+👥 Team Contributions
 
 As discussed, here is the final work division for our Vehicle Detection & Traffic Analysis project.
 Please focus on your assigned module and complete it properly.
