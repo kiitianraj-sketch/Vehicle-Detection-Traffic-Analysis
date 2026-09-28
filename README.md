@@ -23,20 +23,37 @@ classifying, counting, and analyzing vehicles such as cars, motorcycles, buses, 
 ## Architecture
 
 Input
+
+
  ↓
+
 Image Processing
+
  ↓
+
 YOLO Detection
+
  ↓
+
 Vehicle Classification
+
  ↓
+
 Integration
+
  ↓
+
 UI
+
  ↓
+
 Testing
+
  ↓
+
 Final Results
+
+
 
 Individual WorkFlow :-
 
